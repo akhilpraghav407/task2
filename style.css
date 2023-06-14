@@ -1,0 +1,77 @@
+body{
+    background: rgb(182, 182, 230);
+}
+.content{
+    background: white;
+    width: 80%;
+    height: 500PX;
+    border-radius: 2%;
+    margin-top: 82px;
+    margin-left: 160px;
+}
+#icon{
+    color: rgb(138, 138, 216);
+    padding-top: 31px;
+    width:1px;
+    float: left;
+}
+.head{
+    margin-left: 120px;
+
+}
+.bar{
+    padding-top: 55px;
+    padding-left: 752px;
+}
+.bar-tag{
+    padding-right: 46px;
+    text-decoration: none;
+    color:darkgrey;
+    
+}
+.left{
+    width: 39%;
+    float: left;
+    margin-top: 100px;
+}
+.right{
+    width: 46%;
+    float: right;
+
+}
+#Devkit{
+    color: cornflowerblue;
+}
+
+#b1{
+    color:aliceblue;
+    background-color: slateblue;
+    border-radius: 5px;
+    width: 135px;
+    height: 42px;
+}
+#b2{
+    color: darkgrey;
+    border-radius: 5px;
+    width: 135px;
+    height: 42px;
+}
+#img1{
+    width: 172px;
+border-radius: 25px;
+}
+#img2{
+    width: 156px;
+    border-radius: 23px;
+}
+.image01{
+    float: left;
+    margin-top: 130px;
+margin-left: 114px;
+}
+.image02{
+    margin-left: 319px;
+width: 45%;
+margin-top: 170px;
+  
+}
